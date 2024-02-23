@@ -1,3 +1,1 @@
-fun main(){
-    println("hellow world...ok");
-}
+<php>asasa<php>
